@@ -1,0 +1,9 @@
+<!ELEMENT films (film+)>
+<!ELEMENT film (titre, realisateur, genre, annee, duree, acteur)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT realisateur (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT annee (#PCDATA)>
+<!ELEMENT duree (#PCDATA)>
+<!ELEMENT acteur (personne+)>
+<!ELEMENT personne (#PCDATA)>

@@ -1,0 +1,47 @@
+<!DOCTYPE films SYSTEM "films.dtd">
+<films>
+<film>
+		<titre>Le seigneur des anneaux</titre>
+		<realisateur>Peter Jackson</realisateur>
+		<genre>Aventure</genre>
+		<annee>2001</annee>
+		<duree>180</duree>
+		<acteur>
+			<personne>Ian McKellen</personne>
+			<personne>Liv Tyler</personne>
+		</acteur>
+	</film>
+	<film>
+		<titre>Usual Suspects</titre>
+		<realisateur>Bryan Singer</realisateur>
+		<genre>policier</genre>
+		<annee>1995</annee>
+		<duree>106</duree>
+		<acteur>
+			<personne>Kevin Spacey</personne>
+			<personne> 	Chazz Palminteri</personne>
+		</acteur>
+	</film>
+	<film>
+		<titre>No Country for Old Men</titre>
+		<realisateur>Les frere Coen</realisateur>
+		<genre>drame</genre>
+		<annee>2008</annee>
+		<duree>122</duree>
+		<acteur>
+			<personne>Tommy Lee Jones</personne>
+			<personne>Javier Bardem</personne>
+		</acteur>
+	</film>
+	<film>
+		<titre>Arrête-moi si tu peux</titre>
+		<realisateur>Steven Spielberg</realisateur>
+		<genre>comédie</genre>
+		<annee>2003</annee>
+		<duree>141</duree>
+		<acteur>
+			<personne>Leonardo DiCaprio</personne>
+			<personne>Tom Hanks</personne>
+		</acteur>
+	</film>
+</films>
